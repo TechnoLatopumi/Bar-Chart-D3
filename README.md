@@ -1,4 +1,4 @@
-# Bar Chart D@
+# Bar Chart D3
 ## This project for Data visualization certificate
 
 **to use this project**
